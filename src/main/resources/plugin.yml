@@ -1,0 +1,4 @@
+name: Lothus
+main: br.com.lothus.BukkitPlugin
+author: sh4wsz
+version: ${pluginVersion}
