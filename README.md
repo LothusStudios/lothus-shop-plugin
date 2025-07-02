@@ -1,4 +1,4 @@
-CENTRAL CART
+LOTHUS SHOP
 Description
 This is a custom monetization plugin developed for Minecraft servers running on BungeeCord, Travertine, and Zartema platforms. Designed to operate independently, the plugin has no Bukkit dependencies, ensuring full compatibility with proxy-based server networks.
 
